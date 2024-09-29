@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Stok Gudang</string>
+    <string name="list_kosong">Belum ada data</string>
+    <string name="x_diklik">%1$s diklik!</string>
+    <string name="tambah_catatan">Tambah catatan.</string>
+    <string name="nama">Nama Barang</string>
+    <string name="isi_ket">Isi Keterangan</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="belum_bisa">belum bisa</string>
+    <string name="invalid">Nama dan keterangan tidak boleh kosong</string>
+    <string name="tambah_barang">Tambah Barang</string>
+    <string name="edit_barang">Ubah Barang</string>
+    <string name="isi_stok">Isi stok</string>
+    <string name="lainnya">Lainnya</string>
+    <string name="hapus">Hapus</string>
+    <string name="pesan_hapus">Apakah anda yakin untuk menghapus barang ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="grid">grid</string>
+    <string name="list">list</string>
+</resources>
